@@ -1,0 +1,15 @@
+1563984809335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mFN44R74qkd1"
+1563984809825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563984809825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1563984809826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563984809826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563984812156	Marionette	INFO	Listening on port 42399
+1563984812250	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gdk-Message: 13:13:35.541: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+Gdk-Message: 13:13:35.541: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+Gdk-Message: 13:13:35.541: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+Gdk-Message: 13:13:35.541: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
